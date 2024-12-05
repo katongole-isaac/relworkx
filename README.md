@@ -12,24 +12,24 @@
 
 ![Admin Dashboard](./admin.png)
 
-> > **Prerequisites**  
-> > You should have Nodejs >= 18 and ruby >= 2.7
+> **Prerequisites**  
+> You should have Nodejs >= 18 and ruby >= 2.7
 
 This app is made of core components i.e `client` for frontend and `server` for backend.
 
 **How to start the app**
 
-> > You need to clone this repo first
+> You need to clone this repo first
 
-> > Head over to your terminal and run the following
-> >
-> > ```sh
-> > git clone https://github.com/katongole-isaac/relworkx.git
-> > ```
-> >
-> > ```sh
-> > cd relworkx
-> > ```
+>  Head over to your terminal and run the following
+> 
+>  ```sh
+>  git clone https://github.com/katongole-isaac/relworkx.git
+> ```
+> 
+>  ```sh
+>  cd relworkx
+>  ```
 
 - **Start each module seperately**
 
